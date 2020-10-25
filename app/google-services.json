@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40814114941",
+    "firebase_url": "https://zartek-machine-test.firebaseio.com",
+    "project_id": "zartek-machine-test",
+    "storage_bucket": "zartek-machine-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40814114941:android:d69b7447fc82bf185a1914",
+        "android_client_info": {
+          "package_name": "com.rinshad.machine_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40814114941-clntgrh3vrss70q30oeghbuvb05mremo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsWShK3PPA8AD7Q5IC6EthGKJLWOZbCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40814114941-clntgrh3vrss70q30oeghbuvb05mremo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
